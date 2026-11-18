@@ -1,0 +1,37 @@
+%%
+%% This is file `ifoddpage.sty',
+%% generated with the docstrip utility.
+%%
+%% Copyright (C) 2011-2016 by Martin Scharrer <martin@scharrer-online.de>
+%%
+\NeedsTeXFormat{LaTeX2e}[1999/12/01]
+\ProvidesPackage{ifoddpage}
+    [2016/04/23 v1.2 Conditionals for odd/even page check]
+\newif\ifoddpage
+\newif\ifoddpage@strict
+\DeclareOption{strict}{\oddpage@stricttrue}
+\DeclareOption{check}{\oddpage@strictfalse}
+\ProcessOptions\relax
+\newcount\c@checkoddpage
+\def\thecheckoddpage{\number\c@checkoddpage}
+\def\checkoddpage{%
+    \stepcounter{checkoddpage}%
+    \expandafter\ifx\csname checkoddpage@\thecheckoddpage\endcsname\relax
+        \oddpagefalse
+        \ifodd\c@page\oddpagetrue\fi
+    \else
+        \oddpagefalse
+        \ifodd\csname checkoddpage@\thecheckoddpage\endcsname\oddpagetrue\fi
+    \fi
+}
+\def\oddpage@label#1{%
+    \@bsphack
+    \protected@write\@auxout{}{%
+        \string\newcheckoddpage{#1}{\the\c@page}%
+    }%
+    \@esphack
+}
+\def\newcheckoddpage#1#2{%
+    \global\@namedef{checkoddpage@#1}{#2}%
+}
+\endinput
