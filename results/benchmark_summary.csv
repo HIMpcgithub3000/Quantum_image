@@ -1,0 +1,10 @@
+Transformation,Grid,Backend,Shots,Qubits,CX_Count,PSNR_mean,PSNR_std,SSIM_mean,SSIM_std,MSE_mean,MSE_std,Max_Error_mean,Max_Error_std
+Brightness (+25),16x16,Patch Shots,262144,7,3584,45.73,0.29,0.9995,0.0,1.74,0.12,4.3,0.6
+Brightness (+50),16x16,Patch Shots,262144,7,3584,45.78,0.53,0.9995,0.0001,1.73,0.2,3.7,0.6
+Brightness (+50),4x4,Statevector,0,5,384,100.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Brightness (+50),8x8,Statevector,0,7,3584,100.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Brightness (+75),16x16,Patch Shots,262144,7,3584,45.76,0.29,0.9995,0.0001,1.73,0.11,4.3,0.6
+Negative (X),16x16,Patch Shots,262144,7,3584,45.94,0.21,0.9996,0.0001,1.66,0.08,4.0,0.0
+Negative (X),4x4,Statevector,0,5,384,100.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Negative (X),8x8,Shots,65536,7,3584,39.67,0.77,0.9979,0.0003,7.08,1.21,7.7,0.6
+Negative (X),8x8,Statevector,0,7,3584,100.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0

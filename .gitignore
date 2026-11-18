@@ -1,0 +1,27 @@
+# Exclude all markdown files per user instruction
+*.md
+**/*.md
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.virtual_documents/
+
+# OS files
+.DS_Store
+
+# LaTeX temporary build files
+*.aux
+*.log
+*.blg
+*.bbl
+*.out
+missfont.log
+report/*.aux
+report/*.log
+report/*.blg
+report/*.bbl
+report/*.out
+report/missfont.log

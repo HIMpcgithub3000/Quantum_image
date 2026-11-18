@@ -1,0 +1,20 @@
+transformation,grid_size,backend,shots,seed,qubits,cx_count,psnr,ssim,mse,max_error
+Negative (X),4x4,Statevector,0,0,5,384,100.0,1.0,0.0,0.0
+Brightness (+50),4x4,Statevector,0,0,5,384,100.0,1.0,0.0,0.0
+Negative (X),8x8,Statevector,0,0,7,3584,100.0,1.0,0.0,0.0
+Brightness (+50),8x8,Statevector,0,0,7,3584,100.0,1.0,0.0,0.0
+Negative (X),8x8,Shots,65536,42,7,3584,38.99,0.9977,8.2031,8.0
+Negative (X),16x16,Patch Shots,262144,42,7,3584,45.7,0.9996,1.75,4.0
+Brightness (+25),16x16,Patch Shots,262144,42,7,3584,45.4,0.9995,1.875,4.0
+Brightness (+50),16x16,Patch Shots,262144,42,7,3584,45.56,0.9995,1.8086,4.0
+Brightness (+75),16x16,Patch Shots,262144,42,7,3584,46.09,0.9996,1.6016,5.0
+Negative (X),8x8,Shots,65536,43,7,3584,40.5,0.9982,5.7969,7.0
+Negative (X),16x16,Patch Shots,262144,43,7,3584,46.11,0.9995,1.5938,4.0
+Brightness (+25),16x16,Patch Shots,262144,43,7,3584,45.9,0.9995,1.6719,4.0
+Brightness (+50),16x16,Patch Shots,262144,43,7,3584,46.39,0.9996,1.4922,3.0
+Brightness (+75),16x16,Patch Shots,262144,43,7,3584,45.66,0.9995,1.7656,4.0
+Negative (X),8x8,Shots,65536,44,7,3584,39.53,0.9979,7.25,8.0
+Negative (X),16x16,Patch Shots,262144,44,7,3584,46.01,0.9996,1.6289,4.0
+Brightness (+25),16x16,Patch Shots,262144,44,7,3584,45.9,0.9995,1.6719,5.0
+Brightness (+50),16x16,Patch Shots,262144,44,7,3584,45.4,0.9995,1.875,4.0
+Brightness (+75),16x16,Patch Shots,262144,44,7,3584,45.53,0.9995,1.8203,4.0

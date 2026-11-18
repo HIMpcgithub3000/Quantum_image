@@ -1,0 +1,201 @@
+image_index,patient_id,finding_labels,image_path,split,seed
+00000031_000.png,31,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000031_000.png,official_test_experimental_subset,42
+00000032_000.png,32,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000032_000.png,official_test_experimental_subset,42
+00000033_000.png,33,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000033_000.png,official_test_experimental_subset,42
+00000034_000.png,34,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000034_000.png,official_test_experimental_subset,42
+00000035_000.png,35,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000035_000.png,official_test_experimental_subset,42
+00000036_000.png,36,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000036_000.png,official_test_experimental_subset,42
+00000037_000.png,37,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000037_000.png,official_test_experimental_subset,42
+00000038_000.png,38,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000038_000.png,official_test_experimental_subset,42
+00000039_000.png,39,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000039_000.png,official_test_experimental_subset,42
+00000040_000.png,40,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000040_000.png,official_test_experimental_subset,42
+00000041_000.png,41,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000041_000.png,official_test_experimental_subset,42
+00000042_000.png,42,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000042_000.png,official_test_experimental_subset,42
+00000043_000.png,43,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000043_000.png,official_test_experimental_subset,42
+00000044_000.png,44,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000044_000.png,official_test_experimental_subset,42
+00000046_000.png,46,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000046_000.png,official_test_experimental_subset,42
+00000047_000.png,47,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000047_000.png,official_test_experimental_subset,42
+00000048_000.png,48,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000048_000.png,official_test_experimental_subset,42
+00000049_000.png,49,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000049_000.png,official_test_experimental_subset,42
+00000050_000.png,50,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000050_000.png,official_test_experimental_subset,42
+00000052_000.png,52,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000052_000.png,official_test_experimental_subset,42
+00000053_000.png,53,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000053_000.png,official_test_experimental_subset,42
+00000054_000.png,54,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000054_000.png,official_test_experimental_subset,42
+00000055_000.png,55,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000055_000.png,official_test_experimental_subset,42
+00000056_000.png,56,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000056_000.png,official_test_experimental_subset,42
+00000057_000.png,57,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000057_000.png,official_test_experimental_subset,42
+00000058_000.png,58,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000058_000.png,official_test_experimental_subset,42
+00000059_000.png,59,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000059_000.png,official_test_experimental_subset,42
+00000060_000.png,60,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000060_000.png,official_test_experimental_subset,42
+00000061_000.png,61,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000061_000.png,official_test_experimental_subset,42
+00000062_000.png,62,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000062_000.png,official_test_experimental_subset,42
+00000063_000.png,63,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000063_000.png,official_test_experimental_subset,42
+00000064_000.png,64,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000064_000.png,official_test_experimental_subset,42
+00000065_000.png,65,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000065_000.png,official_test_experimental_subset,42
+00000066_000.png,66,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000066_000.png,official_test_experimental_subset,42
+00000067_000.png,67,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000067_000.png,official_test_experimental_subset,42
+00000068_000.png,68,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000068_000.png,official_test_experimental_subset,42
+00000069_000.png,69,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000069_000.png,official_test_experimental_subset,42
+00000070_000.png,70,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000070_000.png,official_test_experimental_subset,42
+00000071_000.png,71,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000071_000.png,official_test_experimental_subset,42
+00000072_000.png,72,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000072_000.png,official_test_experimental_subset,42
+00000073_000.png,73,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000073_000.png,official_test_experimental_subset,42
+00000074_000.png,74,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000074_000.png,official_test_experimental_subset,42
+00000075_000.png,75,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000075_000.png,official_test_experimental_subset,42
+00000076_000.png,76,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000076_000.png,official_test_experimental_subset,42
+00000077_000.png,77,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000077_000.png,official_test_experimental_subset,42
+00000078_000.png,78,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000078_000.png,official_test_experimental_subset,42
+00000079_000.png,79,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000079_000.png,official_test_experimental_subset,42
+00000080_000.png,80,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000080_000.png,official_test_experimental_subset,42
+00000081_000.png,81,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000081_000.png,official_test_experimental_subset,42
+00000082_000.png,82,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000082_000.png,official_test_experimental_subset,42
+00000084_000.png,84,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000084_000.png,official_test_experimental_subset,42
+00000085_000.png,85,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000085_000.png,official_test_experimental_subset,42
+00000086_000.png,86,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000086_000.png,official_test_experimental_subset,42
+00000087_000.png,87,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000087_000.png,official_test_experimental_subset,42
+00000088_000.png,88,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000088_000.png,official_test_experimental_subset,42
+00000089_000.png,89,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000089_000.png,official_test_experimental_subset,42
+00000090_000.png,90,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000090_000.png,official_test_experimental_subset,42
+00000091_000.png,91,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000091_000.png,official_test_experimental_subset,42
+00000092_000.png,92,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000092_000.png,official_test_experimental_subset,42
+00000093_000.png,93,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000093_000.png,official_test_experimental_subset,42
+00000094_000.png,94,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000094_000.png,official_test_experimental_subset,42
+00000095_000.png,95,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000095_000.png,official_test_experimental_subset,42
+00000096_000.png,96,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000096_000.png,official_test_experimental_subset,42
+00000097_000.png,97,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000097_000.png,official_test_experimental_subset,42
+00000098_000.png,98,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000098_000.png,official_test_experimental_subset,42
+00000099_000.png,99,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000099_000.png,official_test_experimental_subset,42
+00000100_000.png,100,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000100_000.png,official_test_experimental_subset,42
+00000101_000.png,101,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000101_000.png,official_test_experimental_subset,42
+00000103_000.png,103,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000103_000.png,official_test_experimental_subset,42
+00000104_000.png,104,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000104_000.png,official_test_experimental_subset,42
+00000106_000.png,106,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000106_000.png,official_test_experimental_subset,42
+00000107_000.png,107,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000107_000.png,official_test_experimental_subset,42
+00000108_000.png,108,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000108_000.png,official_test_experimental_subset,42
+00000109_000.png,109,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000109_000.png,official_test_experimental_subset,42
+00000110_000.png,110,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000110_000.png,official_test_experimental_subset,42
+00000111_000.png,111,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000111_000.png,official_test_experimental_subset,42
+00000112_000.png,112,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000112_000.png,official_test_experimental_subset,42
+00000113_000.png,113,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000113_000.png,official_test_experimental_subset,42
+00000114_000.png,114,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000114_000.png,official_test_experimental_subset,42
+00000115_000.png,115,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000115_000.png,official_test_experimental_subset,42
+00000116_000.png,116,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000116_000.png,official_test_experimental_subset,42
+00000117_000.png,117,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000117_000.png,official_test_experimental_subset,42
+00000119_000.png,119,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000119_000.png,official_test_experimental_subset,42
+00000120_000.png,120,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000120_000.png,official_test_experimental_subset,42
+00000121_000.png,121,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000121_000.png,official_test_experimental_subset,42
+00000122_000.png,122,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000122_000.png,official_test_experimental_subset,42
+00000124_000.png,124,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000124_000.png,official_test_experimental_subset,42
+00000125_000.png,125,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000125_000.png,official_test_experimental_subset,42
+00000126_000.png,126,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000126_000.png,official_test_experimental_subset,42
+00000127_000.png,127,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000127_000.png,official_test_experimental_subset,42
+00000128_000.png,128,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000128_000.png,official_test_experimental_subset,42
+00000129_000.png,129,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000129_000.png,official_test_experimental_subset,42
+00000131_000.png,131,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000131_000.png,official_test_experimental_subset,42
+00000132_000.png,132,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000132_000.png,official_test_experimental_subset,42
+00000135_000.png,135,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000135_000.png,official_test_experimental_subset,42
+00000136_000.png,136,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000136_000.png,official_test_experimental_subset,42
+00000138_000.png,138,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000138_000.png,official_test_experimental_subset,42
+00000139_000.png,139,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000139_000.png,official_test_experimental_subset,42
+00000140_000.png,140,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000140_000.png,official_test_experimental_subset,42
+00000141_000.png,141,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000141_000.png,official_test_experimental_subset,42
+00000142_000.png,142,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000142_000.png,official_test_experimental_subset,42
+00000143_000.png,143,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000143_000.png,official_test_experimental_subset,42
+00000144_000.png,144,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000144_000.png,official_test_experimental_subset,42
+00000145_000.png,145,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000145_000.png,official_test_experimental_subset,42
+00000146_000.png,146,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000146_000.png,official_test_experimental_subset,42
+00000148_000.png,148,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000148_000.png,official_test_experimental_subset,42
+00000149_000.png,149,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000149_000.png,official_test_experimental_subset,42
+00000150_000.png,150,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000150_000.png,official_test_experimental_subset,42
+00000151_000.png,151,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000151_000.png,official_test_experimental_subset,42
+00000153_000.png,153,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000153_000.png,official_test_experimental_subset,42
+00000154_000.png,154,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000154_000.png,official_test_experimental_subset,42
+00000155_000.png,155,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000155_000.png,official_test_experimental_subset,42
+00000156_000.png,156,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000156_000.png,official_test_experimental_subset,42
+00000157_000.png,157,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000157_000.png,official_test_experimental_subset,42
+00000158_000.png,158,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000158_000.png,official_test_experimental_subset,42
+00000159_000.png,159,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000159_000.png,official_test_experimental_subset,42
+00000160_000.png,160,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000160_000.png,official_test_experimental_subset,42
+00000162_000.png,162,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000162_000.png,official_test_experimental_subset,42
+00000163_000.png,163,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000163_000.png,official_test_experimental_subset,42
+00000164_000.png,164,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000164_000.png,official_test_experimental_subset,42
+00000165_000.png,165,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000165_000.png,official_test_experimental_subset,42
+00000166_000.png,166,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000166_000.png,official_test_experimental_subset,42
+00000167_000.png,167,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000167_000.png,official_test_experimental_subset,42
+00000168_000.png,168,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000168_000.png,official_test_experimental_subset,42
+00000169_000.png,169,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000169_000.png,official_test_experimental_subset,42
+00000170_000.png,170,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000170_000.png,official_test_experimental_subset,42
+00000171_000.png,171,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000171_000.png,official_test_experimental_subset,42
+00000172_000.png,172,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000172_000.png,official_test_experimental_subset,42
+00000173_000.png,173,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000173_000.png,official_test_experimental_subset,42
+00000174_000.png,174,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000174_000.png,official_test_experimental_subset,42
+00000175_000.png,175,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000175_000.png,official_test_experimental_subset,42
+00000176_000.png,176,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000176_000.png,official_test_experimental_subset,42
+00000177_000.png,177,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000177_000.png,official_test_experimental_subset,42
+00000178_000.png,178,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000178_000.png,official_test_experimental_subset,42
+00000179_000.png,179,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000179_000.png,official_test_experimental_subset,42
+00000181_000.png,181,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000181_000.png,official_test_experimental_subset,42
+00000183_000.png,183,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000183_000.png,official_test_experimental_subset,42
+00000184_000.png,184,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000184_000.png,official_test_experimental_subset,42
+00000185_000.png,185,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000185_000.png,official_test_experimental_subset,42
+00000186_000.png,186,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000186_000.png,official_test_experimental_subset,42
+00000187_000.png,187,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000187_000.png,official_test_experimental_subset,42
+00000188_000.png,188,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000188_000.png,official_test_experimental_subset,42
+00000189_000.png,189,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000189_000.png,official_test_experimental_subset,42
+00000190_000.png,190,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000190_000.png,official_test_experimental_subset,42
+00000191_000.png,191,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000191_000.png,official_test_experimental_subset,42
+00000192_000.png,192,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000192_000.png,official_test_experimental_subset,42
+00000193_000.png,193,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000193_000.png,official_test_experimental_subset,42
+00000194_000.png,194,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000194_000.png,official_test_experimental_subset,42
+00000195_000.png,195,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000195_000.png,official_test_experimental_subset,42
+00000196_000.png,196,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000196_000.png,official_test_experimental_subset,42
+00000197_000.png,197,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000197_000.png,official_test_experimental_subset,42
+00000198_000.png,198,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000198_000.png,official_test_experimental_subset,42
+00000199_000.png,199,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000199_000.png,official_test_experimental_subset,42
+00000200_000.png,200,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000200_000.png,official_test_experimental_subset,42
+00000201_000.png,201,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000201_000.png,official_test_experimental_subset,42
+00000202_000.png,202,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000202_000.png,official_test_experimental_subset,42
+00000203_000.png,203,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000203_000.png,official_test_experimental_subset,42
+00000204_000.png,204,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000204_000.png,official_test_experimental_subset,42
+00000205_000.png,205,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000205_000.png,official_test_experimental_subset,42
+00000206_000.png,206,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000206_000.png,official_test_experimental_subset,42
+00000207_000.png,207,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000207_000.png,official_test_experimental_subset,42
+00000208_000.png,208,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000208_000.png,official_test_experimental_subset,42
+00000209_000.png,209,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000209_000.png,official_test_experimental_subset,42
+00000211_000.png,211,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000211_000.png,official_test_experimental_subset,42
+00000212_000.png,212,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000212_000.png,official_test_experimental_subset,42
+00000213_000.png,213,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000213_000.png,official_test_experimental_subset,42
+00000214_000.png,214,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000214_000.png,official_test_experimental_subset,42
+00000215_000.png,215,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000215_000.png,official_test_experimental_subset,42
+00000216_000.png,216,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000216_000.png,official_test_experimental_subset,42
+00000217_000.png,217,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000217_000.png,official_test_experimental_subset,42
+00000218_000.png,218,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000218_000.png,official_test_experimental_subset,42
+00000220_000.png,220,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000220_000.png,official_test_experimental_subset,42
+00000221_000.png,221,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000221_000.png,official_test_experimental_subset,42
+00000222_000.png,222,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000222_000.png,official_test_experimental_subset,42
+00000223_000.png,223,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000223_000.png,official_test_experimental_subset,42
+00000224_000.png,224,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000224_000.png,official_test_experimental_subset,42
+00000225_000.png,225,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000225_000.png,official_test_experimental_subset,42
+00000226_000.png,226,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000226_000.png,official_test_experimental_subset,42
+00000227_000.png,227,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000227_000.png,official_test_experimental_subset,42
+00000228_000.png,228,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000228_000.png,official_test_experimental_subset,42
+00000229_000.png,229,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000229_000.png,official_test_experimental_subset,42
+00000230_000.png,230,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000230_000.png,official_test_experimental_subset,42
+00000231_000.png,231,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000231_000.png,official_test_experimental_subset,42
+00000232_000.png,232,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000232_000.png,official_test_experimental_subset,42
+00000234_000.png,234,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000234_000.png,official_test_experimental_subset,42
+00000235_000.png,235,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000235_000.png,official_test_experimental_subset,42
+00000236_000.png,236,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000236_000.png,official_test_experimental_subset,42
+00000237_000.png,237,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000237_000.png,official_test_experimental_subset,42
+00000238_000.png,238,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000238_000.png,official_test_experimental_subset,42
+00000239_000.png,239,Cardiomegaly,/Users/himanshusharma/Quantum_image/dataset/images/00000239_000.png,official_test_experimental_subset,42
+00000240_000.png,240,Effusion|Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000240_000.png,official_test_experimental_subset,42
+00000241_000.png,241,Atelectasis|Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000241_000.png,official_test_experimental_subset,42
+00000242_000.png,242,No Finding,/Users/himanshusharma/Quantum_image/dataset/images/00000242_000.png,official_test_experimental_subset,42
+00000243_000.png,243,Infiltration,/Users/himanshusharma/Quantum_image/dataset/images/00000243_000.png,official_test_experimental_subset,42
+00000244_000.png,244,Atelectasis,/Users/himanshusharma/Quantum_image/dataset/images/00000244_000.png,official_test_experimental_subset,42
+00000245_000.png,245,Effusion,/Users/himanshusharma/Quantum_image/dataset/images/00000245_000.png,official_test_experimental_subset,42
+00000246_000.png,246,Nodule,/Users/himanshusharma/Quantum_image/dataset/images/00000246_000.png,official_test_experimental_subset,42
+00000247_000.png,247,Pneumothorax,/Users/himanshusharma/Quantum_image/dataset/images/00000247_000.png,official_test_experimental_subset,42
+00000248_000.png,248,Mass,/Users/himanshusharma/Quantum_image/dataset/images/00000248_000.png,official_test_experimental_subset,42
+00000249_000.png,249,Consolidation,/Users/himanshusharma/Quantum_image/dataset/images/00000249_000.png,official_test_experimental_subset,42
